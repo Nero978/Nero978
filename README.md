@@ -1,16 +1,37 @@
 ### Hi there 👋
 
-<!--
-**Nero978/Nero978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <a href="https://nero978.top/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Hello,World!&center=true&size=27">
+  </a>
+</h1>
 
-Here are some ideas to get you started:
+“这是最后一版本，再改我是dog。。”
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+                              _ooOoo_
+                             o8888888o
+                             88" . "88
+                             (| -_- |)
+                             O\  =  /O
+                          ____/`---'\____
+                        .'  \\|     |//  `.
+                       /  \\|||  :  |||//  \
+                      /  _||||| -:- |||||-  \
+                      |   | \\\  -  /// |   |
+                      | \_|  ''\---/''  |   |
+                      \  .-\__  `-`  ___/-. /
+                    ___`. .'  /--.--\  `. . __
+                 ."" '<  `.___\_<|>_/___.'  >'"".
+                | | :  `- \`.;`\ _ /`;.`/ - ` : | |
+                \  \ `-.   \_ __\ /__ _/   .-` /  /
+           ======`-.____`-.___\_____/___.-`____.-'======
+                              `=---='
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                      佛祖保佑        永无BUG
+
+
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nero978&theme=light&hide_border=true)](https://git.io/streak-stats) | <img src="https://github-readme-stats.vercel.app/api?username=Nero978&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;"> |
+| ------------- | ------------- |
+
+
