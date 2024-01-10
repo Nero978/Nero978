@@ -6,6 +6,12 @@
   </a>
 </h1>
 
+### About Me ⭐
+- Blog: https://nero978.top
+
+- Email: hi#nero978.top
+
+
 “这是最后一版，再改我是dog。。”
 
 
@@ -33,10 +39,4 @@
 
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nero978&theme=light&hide_border=true)](https://git.io/streak-stats) | <img src="https://github-readme-stats.vercel.app/api?username=Nero978&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;"> |
 | ------------- | ------------- |
-
-### About Me ⭐
-- Web: https://nero978.top
-
-- Email: hi#nero978.top
-
 
